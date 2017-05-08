@@ -1,1 +1,5 @@
-alert("holiwiiii");
+function saludar(){
+    
+    console.log("adios mundo");
+}
+saludar();
